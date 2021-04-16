@@ -1,8 +1,8 @@
 module.exports ={
-    user: 'node_user',
+    user: '********',
     host: 'localhost',
-    database: 'dragonstackdb',
-    password: 'dr@g0n',
+    database: '*********',
+    password: '******',
     port: 5432
 }
 
