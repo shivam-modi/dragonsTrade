@@ -1,5 +1,5 @@
-# Fundify
-Fund management
+# Dragon Trading webapp
+A game for fun
 
 ## About
 I developed this website for only learning purpose. 
